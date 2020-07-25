@@ -8,7 +8,7 @@ Instructions for vanilla version:
 3. Run file (Shift + F10 in PyCharm, F5 in Spyder)
 4. Type in first name
 5. Type in last name
-6. Dictionary will insert first, last, and username keys with values provided
+6. Inputs will be added as first, last, and username key-value pairs to dictionary
 7. Username will print to console
 
 TO DO
