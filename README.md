@@ -1,5 +1,5 @@
 # simple_username_generator
-Summary: A simple username generator based off of first and last name inputs.
+Summary: A <i>extremely</i> simple username generator based off of first and last name inputs.
 
 Instructions for vanilla version:
 
