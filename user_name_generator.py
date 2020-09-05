@@ -6,7 +6,6 @@ u_input_last = input("What is your last name? ").lower()
 
 # create username
 user["first"], user["last"] = u_input_first, u_input_last
-# create username using first / last name key-value pairs
 u_name = user['first'][0] + user['last']
 user["username"] = u_name
 
