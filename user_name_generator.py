@@ -1,13 +1,13 @@
 user = {}
 
-# get name
+# input
 u_input_first = input("What is your first name? ").lower()
 u_input_last = input("What is your last name? ").lower()
 
-# create username
+# create
 user["first"], user["last"] = u_input_first, u_input_last
 u_name = user['first'][0] + user['last']
 user["username"] = u_name
 
-# output to user
+# output
 print(f"\nSuggested username: {user['username']}")
