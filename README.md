@@ -15,7 +15,7 @@ Instructions for vanilla version:
 
 ## Import example:
 
-```
+```python
 import json
 import user_name_generator as ung
   
