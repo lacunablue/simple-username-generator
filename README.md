@@ -7,7 +7,7 @@ Instructions for vanilla version:
 1. This is a console/terminal only program currently, created using PyCharm
 2. Open in an IDE or terminal
 3. Run file (Shift + F10 in PyCharm, F5 in Spyder)
-4. Invoke function u_generator()
+4. Invoke function ```u_generator()```
 5. Type in first name
 6. Type in last name
 7. Inputs will be added as first, last, and username key-value pairs to dictionary
