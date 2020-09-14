@@ -36,7 +36,7 @@ else:
 
 TO DO
 - [X] Turn into function and / or module
-- [ ] Set this up so n amount of users can be saved to dictionary file (JSON?)
+- [ ] Set this up so n amount of users can be saved to dictionary file
 - [ ] Error handling
 - [ ] If username already exists, suggest secondary, tertiary
 - [ ] Research security best practices for storing user data
